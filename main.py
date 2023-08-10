@@ -6,7 +6,7 @@ def greeting(name):
 
 
 def test_func():
-    return 1
+    return None
 
 
 print(greeting("Ostap"))
