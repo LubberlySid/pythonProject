@@ -6,3 +6,8 @@ def greeting(name):
 
 
 print(greeting("Ostap"))
+
+
+def bug_fix():
+    print("top")
+    
