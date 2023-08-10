@@ -11,11 +11,15 @@ def test_func():
 
 print(greeting("Ostap"))
 <<<<<<< HEAD
+<<<<<<< HEAD
 
 
 def bug_fix():
     print("top")
     
+=======
+print(test_func())
+>>>>>>> feat1
 =======
 print(test_func())
 >>>>>>> feat1
