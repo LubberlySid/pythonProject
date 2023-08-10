@@ -5,4 +5,9 @@ def greeting(name):
     return greet
 
 
+def test_func():
+    return 1
+
+
 print(greeting("Ostap"))
+print(test_func())
