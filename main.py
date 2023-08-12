@@ -18,5 +18,4 @@ def bug_fix():
     
 
 print(test_func())
-print(test_func())
-
+print(bug_fix())
